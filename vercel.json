@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+      { "source": "/registration", "destination": "//registration" },
+      { "source": "/contact", "destination": "//contact" },
+      { "source": "/about", "destination": "//about" }
+    ]
+  }
+  
